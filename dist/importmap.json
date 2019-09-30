@@ -1,0 +1,18 @@
+
+{
+	"imports": {
+		"authoritarian/": "https://cdn.jsdelivr.net/npm/authoritarian@0.0.0-dev.44/",
+		"commotion/": "https://cdn.jsdelivr.net/npm/commotion@0.1.0-dev.0/",
+		"commotion": "https://cdn.jsdelivr.net/npm/commotion@0.1.0-dev.0/dist/commotion",
+		"crosscall/": "https://cdn.jsdelivr.net/npm/crosscall@0.0.6-dev.19/",
+		"lit-element/": "https://cdn.jsdelivr.net/npm/lit-element@2.3.1/",
+		"lit-element": "https://cdn.jsdelivr.net/npm/lit-element@2.3.1/lit-element.js",
+		"lit-html/": "https://cdn.jsdelivr.net/npm/lit-html@1.2.1/",
+		"lit-html": "https://cdn.jsdelivr.net/npm/lit-html@1.2.1/lit-html.js",
+		"menutown/": "https://cdn.jsdelivr.net/npm/menutown@0.0.1/",
+		"menutown": "https://cdn.jsdelivr.net/npm/menutown@0.0.1/dist/register-all.js",
+		"redcrypto/": "https://cdn.jsdelivr.net/npm/redcrypto@0.0.0-dev.4/",
+		"renraku/": "https://cdn.jsdelivr.net/npm/renraku@0.0.0-dev.25/"
+	}
+}
+
